@@ -1,0 +1,4 @@
+{
+    "searchBarInput":"#search_query_top",
+    "searchBarButton":"[name='submit_search']"
+}
