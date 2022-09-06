@@ -4,7 +4,8 @@
   "description": "My first automation project using Cypress and Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "exec": "npx cypress open",
+    "headless":"npx cypres run"
   },
   "keywords": [
     "QA",
@@ -16,5 +17,9 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^10.7.0"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/jaime-contreras-98/my-first-cypress-project"
   }
 }
