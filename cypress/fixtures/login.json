@@ -1,0 +1,6 @@
+{
+    "emailInput":"#email",
+    "passwordInput":"#passwd",
+    "loginButton":"#SubmitLogin",
+    "loginErrorLabel":"div[class='alert alert-danger'] ol"
+}
